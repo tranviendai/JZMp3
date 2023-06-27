@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MP3 (OFFLINE)</string>
+    <string name="playlist">Playlist</string>
+    <string name="playing">Playing</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
